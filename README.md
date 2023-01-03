@@ -12,7 +12,7 @@ The plugin source code can be:
 
 This TiddlyWiki is modified to have a nice look and feel in NW.js, but it will work in the browser too.
 
-If you like to contribute or like to propose improvements drop them here:https://groups.google.com/g/tiddlywikiclassic
+If you like to contribute or like to propose improvements drop them here: https://groups.google.com/g/tiddlywikiclassic
 
 ```
 ** The plugin is EXPERIMENTAL AND SUBJECT TO CHANGE **
