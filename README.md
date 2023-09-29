@@ -8,7 +8,7 @@ The source code can be:
 - Transpiled with Babel to es2015, is included as plugin
 - Minified with Terser, is included as plugin
 
-Give the plugin a try and load the TiddlyWikiClassic from [here](https://qbroker.github.io/pluginBuilder/index.html) :heavy_check_mark:
+Give the plugin a try and load the TiddlyWikiClassic from [here](https://qbroker.github.io/pluginBuilder/index.html) :heavy_check_mark: :heavy_check_mark: :heavy_check_mark:
 
 If you like to contribute or like to propose improvements drop them [here](https://groups.google.com/g/tiddlywikiclassic)
 
