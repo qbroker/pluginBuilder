@@ -8,22 +8,22 @@ The source code can be:
 - Transpiled with Babel to es2015, is included as plugin
 - Minified with Terser, is included as plugin
 \
-Give the plugin a try and load the TiddlyWikiClassic from [here](https://qbroker.github.io/pluginBuilder/index.html) :heavy_check_mark:\
+Give the plugin a try and load the TiddlyWikiClassic from [here](https://qbroker.github.io/pluginBuilder/index.html) :heavy_check_mark:
 
-If you like to contribute or like to propose improvements drop them [here](https://groups.google.com/g/tiddlywikiclassic)\
-
+If you like to contribute or like to propose improvements drop them [here](https://groups.google.com/g/tiddlywikiclassic)
+\
 ```
 *** The plugin is EXPERIMENTAL AND SUBJECT TO CHANGE ***
 ```
 ### TiddlyWikiClassic license :copyright:
-TiddlyWiki is Copyright 2013 UnaMesa Assocation.\
+TiddlyWiki is Copyright 2013 UnaMesa Assocation.
 It is licensed under a BSD License. See [here](https://github.com/TiddlyWiki/TiddlyWikiClassic/blob/master/html/copyright.txt) for the exact terms.
 \
 ### TiddlyWikiClassic @ Google groups [:link:](https://groups.google.com/forum/#!forum/tiddlywikiclassic)
 ### TiddlyWikiClassic @ Github [:link:](https://github.com/TiddlyWiki/TiddlyWikiClassic)
 ### TiddlyWikiClassic as a website [:link:](https://classic.tiddlywiki.com/)
 \
-Comments are appreciated and if you like this project, give it a :star:\
+Comments are appreciated and if you like this project, give it a :star:
 \
 \
 Have a nice day, Okido
