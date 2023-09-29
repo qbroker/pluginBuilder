@@ -1,7 +1,7 @@
 ## pluginBuilder-Plugin.js, build TiddlyWikiClassic plugins with ease
 
 This TiddlyWikiClassic provides you the templates and plugins to build TiddlyWikiClassic plugins.
-Build TiddlyWikiClassic plugins and do not worry about the plugin structure, just focus on the source code.\
+Build TiddlyWikiClassic plugins and do not worry about the plugin structure, just focus on the source code.
 
 The source code can be:
 - Edited with the ace.js editor, is included as plugin
