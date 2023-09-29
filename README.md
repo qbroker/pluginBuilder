@@ -13,7 +13,7 @@ Give the plugin a try and load the TiddlyWikiClassic from [here](https://qbroker
 If you like to contribute or like to propose improvements drop them [here](https://groups.google.com/g/tiddlywikiclassic)
 
 ```
-*** The plugin is EXPERIMENTAL AND SUBJECT TO CHANGE ***
+*** $${\color{green}Green}$$ The pluginBuilder.js is EXPERIMENTAL AND SUBJECT TO CHANGE ***
 ```
 ### TiddlyWikiClassic license :copyright:
 TiddlyWiki is Copyright 2013 UnaMesa Assocation.
